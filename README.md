@@ -1,4 +1,4 @@
-## Application for Sending GET Requests
+# Application for ddos attack 
 
 ## Description
 This application is designed to send GET requests to a specified website. It can be useful for DDoS attacks, testing, or monitoring the status of websites.
