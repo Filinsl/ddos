@@ -5,7 +5,7 @@ from concurrent.futures import ThreadPoolExecutor
 import math
 import customtkinter as ctk
 import threading
-import tkinter as tk  # Import standard Tkinter for menu
+import tkinter as tk  
 
 MAX_THREADS = 10
 MAX_RETRIES = 5
